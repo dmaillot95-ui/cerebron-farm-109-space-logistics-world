@@ -1,0 +1,14 @@
+{
+  "schema_version": "SPACE_BUS_V1",
+  "cycle_id": "SPACE-BUS-DELIVERY-0001",
+  "source": 108,
+  "destination": 109,
+  "source_repo": "cerebron-farm-108-isru-mining-world",
+  "destination_repo": "cerebron-farm-109-space-logistics-world",
+  "payload": {
+    "canary": true,
+    "value": 108109
+  },
+  "epistemic": "CROSS_REPO_DELIVERY_CANARY_NOT_SIMULATION_STATE",
+  "payload_sha256": "computed-by-receiver"
+}
